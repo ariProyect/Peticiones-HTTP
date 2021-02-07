@@ -1,6 +1,6 @@
-import { init } from './js/chistes-page';
+//import { init } from './js/chistes-page';
 //import { init } from './js/usuarios-page';
-//import { init } from './js/archivos-page';
+import { init } from './js/archivos-page';
 
 //import * as CRUD from './js/crud-provider'; // Aqui se dice toma todo lo que esta exportado en este archivo y en mi index se llamara crud
 
